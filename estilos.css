@@ -1,39 +1,39 @@
 h1 {
-    color: aquamarine;
-    font-size: 38px;
+    color: black;
+    font-size: 28px;
   }
 
   h2 {
-    color: aquamarine;
-    font-size: 38px;
+    color: black;
+    font-size: 28px;
   }
 
   h3 {
-    color: aquamarine;
-    font-size: 38px;
+    color: black;
+    font-size: 28px;
   }
 
   h4 {
-    color: aquamarine;
-    font-size: 38px;
+    color:black;
+    font-size: 28px;
   }
 
   h5 {
-    color: aquamarine;
-    font-size: 38px;
+    color: black;
+    font-size: 28px;
   }
 
   h6 {
-    color: aquamarine;
-    font-size: 38px;
+    color: black;
+    font-size: 28px;
   }
 
   h7 {
-    color: aquamarine;
+    color: black;
     font-size: 38px;
   }
   
   body {
-    background-color: green;
+    background-color: aquamarine;
     text-align: center;
   }
