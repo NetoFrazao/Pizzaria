@@ -18,22 +18,7 @@ h1 {
     font-size: 28px;
   }
 
-  h5 {
-    color: black;
-    font-size: 28px;
-  }
-
-  h6 {
-    color: black;
-    font-size: 28px;
-  }
-
-  h7 {
-    color: black;
-    font-size: 38px;
-  }
-  
   body {
-    background-color: aquamarine;
+    background-color: white;
     text-align: center;
   }
